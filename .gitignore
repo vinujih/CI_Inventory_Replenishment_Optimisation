@@ -8,3 +8,4 @@ __pycache__/
 train.csv
 test.csv
 sample_submission.csv
+data_subset.csv
