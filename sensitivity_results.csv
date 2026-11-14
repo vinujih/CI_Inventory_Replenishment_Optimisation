@@ -1,0 +1,7 @@
+case,baseline_val,ga_val,gain_%,penalty
+Tight budget (0.90),716434,716837,0.06,0
+Looser budget (1.00),749270,768412,2.55,0
+Generous budget (1.10),749270,768412,2.55,0
+Low margin (price 14),359160,361669,0.7,0
+High margin (price 25),1431963,1436586,0.32,47
+Costly storage (hold 0.5),638462,640809,0.37,0
